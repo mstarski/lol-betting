@@ -1,0 +1,3 @@
+[submodule "LeagueOfElo"]
+	path = LeagueOfElo
+	url = https://github.com/mstarski/LeagueOfElo.git
